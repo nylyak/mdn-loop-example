@@ -1,0 +1,3 @@
+The [countdown exercise from MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Loops#active_learning_launch_countdown) has an annoying habit of freezing the page. This is an alternative that you can run locally in your browser to (hopefully) mitigate the issue.
+
+To perform the exercise, edit [script.js](./script.js) and open (or refresh) [index.html](./index.html) in your browser to see the result. If you need to start over, copy over the content of [original.js](./original.js) to overwrite any changes you made. It should not be necessary to edit [index.html](./index.html) to complete the exercise.
